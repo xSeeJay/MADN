@@ -63,7 +63,7 @@ Spiel::~Spiel() {
 }
 
 int Spiel::wuerfelWuerfel() {
-    //TODO:: Generate a random number between 1 to 6
+    //TODO:: Erstellt eine zufällige Nummer zwischen 1 und 6
 
     lastDiceValue = random.bounded(1, 7);
     return lastDiceValue;
