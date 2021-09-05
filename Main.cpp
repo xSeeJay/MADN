@@ -18,7 +18,7 @@
 #include "ui_welcome.h"
 
 void aboutClicked() {
-    UeberUnsDialog::show(); //Hay
+    UeberUnsDialog::show(); //Hay ich bins
 }
 
 void loadClicked(QMainWindow &welcomeWindow) {
