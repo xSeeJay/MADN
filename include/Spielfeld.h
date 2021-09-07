@@ -52,8 +52,8 @@ public:
     Figur* getPawn(SpielerFarbe color, unsigned int which);
 
 private:
-    unsigned int players_count {}; //Count of players
-    QVector<Figur*> mPawns {}; //Vector holding pawn handles
+    unsigned int players_count {}; //Anzahl von Spielern
+    QVector<Figur*> mPawns {}; //Vektor für Spielfiguren
 };
 
-#endif //Board.h
+#endif //Spielfeld.h

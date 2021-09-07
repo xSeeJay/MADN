@@ -82,4 +82,4 @@ private:
     QRandomGenerator random {}; //For randomization of dice
 };
 
-#endif //Game.h
+#endif //Spiel.h

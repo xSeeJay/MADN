@@ -8,4 +8,4 @@ enum class SpielerFarbe {
 	GREEN
 };
 
-#endif //PlayerColor.h
+#endif //SpielerFarbe.h
